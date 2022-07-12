@@ -1,0 +1,6 @@
+NAME                        READY   STATUS    RESTARTS   AGE
+flaskapp-66f999c9fd-fjmkr   1/1     Running   0          3m35s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+
